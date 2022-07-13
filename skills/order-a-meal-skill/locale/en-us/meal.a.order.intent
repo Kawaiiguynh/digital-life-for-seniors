@@ -1,0 +1,9 @@
+Order {mealname}
+Place an order for {mealname}
+(let's | I'd like to) (place an order for|order) ({mealname}|{foodtype})
+I'd like to order food
+I want to eat
+let's eat
+let's get food
+I'm hungry
+timed entry order meal
